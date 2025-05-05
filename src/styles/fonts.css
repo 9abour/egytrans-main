@@ -1,0 +1,91 @@
+/* English fonts */
+@font-face {
+  font-family: 'Neue Montreal';
+  src: local('NeueMontreal-Regular'),
+    url('../../public/fonts/NeueMontreal-Regular.otf') format('woff2'),
+    url('../../public/fonts/NeueMontreal-Regular.otf') format('woff');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Neue Montreal';
+  src: local('NeueMontreal-Light'),
+    url('../../public/fonts/NeueMontreal-Light.otf') format('woff2'),
+    url('../../public/fonts/NeueMontreal-Light.otf') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Neue Montreal';
+  src: local('NeueMontreal-Medium'),
+    url('../../public/fonts/NeueMontreal-Medium.otf') format('woff2'),
+    url('../../public/fonts/NeueMontreal-Medium.otf') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Neue Montreal';
+  src: local('NeueMontreal-Bold'),
+    url('../../public/fonts/NeueMontreal-Bold.otf') format('woff2'),
+    url('../../public/fonts/NeueMontreal-Bold.otf') format('woff');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+/* Arabic fonts */
+@font-face {
+  font-family: 'Tajawal';
+  src: local('Tajawal-Regular'),
+    url('../../public/fonts/Tajawal-Regular.ttf') format('truetype'),
+    url('../../public/fonts/Tajawal-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Tajawal';
+  src: local('Tajawal-Light'),
+    url('../../public/fonts/Tajawal-Light.ttf') format('truetype'),
+    url('../../public/fonts/Tajawal-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Tajawal';
+  src: local('Tajawal-Medium'),
+    url('../../public/fonts/Tajawal-Medium.ttf') format('truetype'),
+    url('../../public/fonts/Tajawal-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Tajawal';
+  src: local('Tajawal-Bold'),
+    url('../../public/fonts/Tajawal-Bold.ttf') format('truetype'),
+    url('../../public/fonts/Tajawal-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Tajawal';
+  src: local('Tajawal-ExtraBold'),
+    url('../../public/fonts/Tajawal-ExtraBold.ttf') format('truetype'),
+    url('../../public/fonts/Tajawal-ExtraBold.ttf') format('truetype');
+  font-weight: 800;
+  font-style: normal;
+  font-display: swap;
+}

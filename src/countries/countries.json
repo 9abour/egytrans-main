@@ -1,0 +1,71 @@
+{
+  "countries": [
+    {
+      "name": "United States",
+      "code": "US",
+      "states": [
+        {
+          "name": "California",
+          "code": "CA",
+          "cities": ["Los Angeles", "San Francisco", "San Diego"]
+        },
+        {
+          "name": "New York",
+          "code": "NY",
+          "cities": ["New York City", "Buffalo", "Rochester"]
+        }
+      ]
+    },
+    {
+      "name": "Canada",
+      "code": "CA",
+      "states": [
+        {
+          "name": "Ontario",
+          "code": "ON",
+          "cities": ["Toronto", "Ottawa", "Mississauga"]
+        },
+        {
+          "name": "Quebec",
+          "code": "QC",
+          "cities": ["Montreal", "Quebec City", "Laval"]
+        }
+      ]
+    },
+    {
+      "name": "Germany",
+      "code": "DE",
+      "states": [
+        {
+          "name": "Bavaria",
+          "code": "BY",
+          "cities": ["Munich", "Nuremberg", "Augsburg"]
+        },
+        {
+          "name": "Berlin",
+          "code": "BE",
+          "cities": ["Berlin", "Potsdam"]
+        }
+      ]
+    }
+  ],
+  "cities": [
+    "New York City",
+    "Los Angeles",
+    "San Francisco",
+    "San Diego",
+    "Buffalo",
+    "Rochester",
+    "Toronto",
+    "Ottawa",
+    "Mississauga",
+    "Montreal",
+    "Quebec City",
+    "Laval",
+    "Munich",
+    "Nuremberg",
+    "Augsburg",
+    "Berlin",
+    "Potsdam"
+  ]
+}
